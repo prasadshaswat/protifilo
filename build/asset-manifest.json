@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/protifilo/static/css/main.26aee503.css",
+    "main.js": "/protifilo/static/js/main.884876f7.js",
+    "static/media/Snapchat-301916402.jpg": "/protifilo/static/media/Snapchat-301916402.90384ddaeb571d69c35b.jpg",
+    "static/media/shaswatresume.pdf": "/protifilo/static/media/shaswatresume.0506bf9d9b55a98cd310.pdf",
+    "index.html": "/protifilo/index.html",
+    "main.26aee503.css.map": "/protifilo/static/css/main.26aee503.css.map",
+    "main.884876f7.js.map": "/protifilo/static/js/main.884876f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26aee503.css",
+    "static/js/main.884876f7.js"
+  ]
+}
